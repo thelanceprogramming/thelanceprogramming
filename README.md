@@ -19,4 +19,4 @@ I specialize in modern web stacks, combining elegant backend logic with intuitiv
 
 ---
 
-💡 *"🌌 May your love of learning be as boundless as the universe itself!"*
+*"🌌 May your love of learning be as boundless as the universe itself!"*
