@@ -3,7 +3,7 @@ I specialize in modern web stacks, combining elegant backend logic with intuitiv
 
 ---
 
-### 🧠 Skills
+### Skills
 
 **Programming Languages**  
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php)](https://skillicons.dev)
