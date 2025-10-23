@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🌌 May your love of learning be as boundless as the universe itself!
 
-<!--
-**thelanceprogramming/thelanceprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Lance Javate**, a passionate full-stack developer who loves crafting elegant and performant web experiences.  
+I specialize in modern web stacks — from backend logic to pixel-perfect UI design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,typescript,vue,react,nuxt,next,tailwind,nodejs)](https://skillicons.dev)
+
+---
+
+💡 *"Code is art — and every line is a chance to learn something new."*
