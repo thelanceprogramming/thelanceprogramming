@@ -1,4 +1,4 @@
-Magandang buhay! I'm **Lance Javate**, a passionate full-stack developer from the Philippines who loves crafting web experiences.  
+Magandang buhay! I'm **Lance Javate**, a full-stack developer from the Philippines who loves crafting web experiences.  
 I specialize in modern web stacks, combining elegant backend logic with intuitive UI design.
 
 ---
