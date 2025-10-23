@@ -7,14 +7,17 @@ I specialize in modern web stacks, combining elegant backend logic with intuitiv
 
 ### 🧠 Skills
 
-**Backend & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,express)](https://skillicons.dev)
+**Programming Languages**  
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php)](https://skillicons.dev)
 
-**Frontend & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,next,pinia,tailwind)](https://skillicons.dev)
+**Frameworks & Libraries**  
+[![My Skills](https://skillicons.dev/icons?i=laravel,express,vue,nuxt,react,next,pinia,wordpress)](https://skillicons.dev)
 
-**Databases, Tools & Design**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,figma)](https://skillicons.dev)
+**Databases & Tools**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,nodejs,docker,git,github)](https://skillicons.dev)
+
+**Design & Prototyping**  
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ---
 
