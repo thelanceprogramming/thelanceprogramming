@@ -1,7 +1,7 @@
 ### 🌌 May your love of learning be as boundless as the universe itself!
 
-Hi there! I'm **Lance Javate**, a passionate full-stack developer who loves crafting elegant and performant web experiences.  
-I specialize in modern web stacks — from backend logic to pixel-perfect UI design.
+Hi there! I'm **Lance Javate**, a passionate full-stack developer who loves crafting web experiences.  
+I specialize in modern web stacks, including backend logic and UI design.
 
 ---
 
